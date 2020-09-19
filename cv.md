@@ -18,19 +18,14 @@
 * webpack
 
 ## Experience
-Here is the list of my projects
-
-Site address | Explanation
------------- | -------------
-
-[https://satpix.github.io/Meteorite/](https://satpix.github.io/Meteorite/) | game
-[https://satpix.github.io/TicTacToe/](https://satpix.github.io/TicTacToe/) | game
+I completed courses JavaScript web application development at IT-academy school in Minsk. I learned html and сss myself from video tutorials. Practiced on my own. Also tried to teach React.
 
 ## Code example
 Examples of my self-education results everybody can see here - [https://github.com/Satpix/Satpix.github.io](https://github.com/Satpix/Satpix.github.io)
 
 ## Education
-I am getting University Degree in It area. I have University Degree in IT area. Passed a course at It-academy. In free time I'm self-studying.
+Belarusian State University of Informatics and Radioelectronics
+Period of time: 2017-2021.
 
 ## English
 My level is B1.
