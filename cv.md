@@ -30,3 +30,10 @@ Examples of my self-education results everybody can see here - [https://github.c
 
 ## Education
 I am getting University Degree in It area. I have University Degree in IT area. Passed a course at It-academy. In free time I'm self-studying.
+
+## English
+My level is B1.
+
+## Spanish
+My level is A2.
+
