@@ -37,3 +37,5 @@ My level is B1.
 ## Spanish
 My level is A2.
 
+## Summary
+I would like to be FullStack Developer as soon as possible, so I'm learning, coding and improve my skills every day.
