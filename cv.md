@@ -28,3 +28,5 @@ https://satpix.github.io/TicTacToe/ | game
 ## Code example
 Examples of my self-education results everybody can see here - [https://github.com/Satpix/Satpix.github.io](https://github.com/Satpix/Satpix.github.io)
 
+## Education
+I am getting University Degree in It area. I have University Degree in IT area. Passed a course at It-academy. In free time I'm self-studying.
